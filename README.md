@@ -113,12 +113,10 @@ Include screenshot of the dataset
 ### Training Loss, Validation Loss Vs Iteration Plot
 ![11](https://user-images.githubusercontent.com/75235006/189856860-863cf2d8-6579-47dd-bf15-67766a2698e5.png)
 
-
-### Classification Report
+### Confusion Matrix
 ![22](https://user-images.githubusercontent.com/75235006/189856950-523f7faa-b062-4dae-a331-98b86d6ffd77.png)
 
-
-### Confusion Matrix
+### Classification Report
 ![33](https://user-images.githubusercontent.com/75235006/189856987-8737bf4f-78fd-4a75-a83c-db73267ebae8.png)
 
 
