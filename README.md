@@ -22,6 +22,8 @@ Split the data to training and testing
 
 ### STEP 3:
 Train the data and then predict using Tensorflow
+## Neural Network Model
+![image](https://user-images.githubusercontent.com/75235090/189541069-9f65e394-feff-4760-953f-73050686c3d5.png)
 
 ## PROGRAM
 
